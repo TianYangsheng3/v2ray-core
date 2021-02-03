@@ -22,7 +22,7 @@ Project V is a set of network tools that help you to build your own computer net
 [The MIT License (MIT)](https://raw.githubusercontent.com/v2fly/v2ray-core/master/LICENSE)
 
 ## Credits
-
+sorry
 This repo relies on the following third-party projects:
 
 - In production:
